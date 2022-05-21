@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>time-left.png</file>
+        <file>settings.png</file>
+        <file>Parkomat_logo.png</file>
+        <file>money.png</file>
+        <file>location-pin.png</file>
+        <file>home.png</file>
+        <file>car.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BottomFrame.qml</file>
+        <file>Login.qml</file>
+        <file>MainWindow.qml</file>
+        <file>Navigation.qml</file>
+        <file>ParkingFee.qml</file>
+        <file>ParkingSlot.qml</file>
+        <file>Registration.qml</file>
+        <file>StackViewPage.qml</file>
+    </qresource>
+</RCC>
